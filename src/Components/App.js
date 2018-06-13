@@ -7,6 +7,7 @@ class App extends Component {
         return(
             <div>
                 <Form inline>
+                <h2>Input Your Birthday!</h2>
                 <FormControl type="date">
                 </FormControl>
                 {" "}
